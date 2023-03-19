@@ -13,4 +13,4 @@
 
 ###### Resume
 
-[![Resume](https://img.shields.io/badge/Resume-ffffff?style=flat&logo=Notion&logoColor=black&link=https://bingwer.notion.site/Seunghyo-Lee-6d2a30d1624c4292aaf8fde431fa3a19)](https://bingwer.notion.site/Seunghyo-Lee-6d2a30d1624c4292aaf8fde431fa3a19)
+[![Resume](https://img.shields.io/badge/Resume-ffffff?style=flat&logo=Notion&logoColor=black&link=https://bingwer.notion.site/Seunghyo-Lee-6d2a30d1624c4292aaf8fde431fa3a19)](https://bingwer.notion.site/Seunghyo-Lee-87284ec6377a4f7e97fdcddea266cfa8)
